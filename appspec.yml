@@ -1,0 +1,11 @@
+version: 0.0
+
+os: windows
+
+files:
+  - source: \QuestionDiagonosisTkinter.py
+    destination: E:\VIT MATERIAL\sem5\Virtualization\MedChatbot\Chatbot_j_comp
+hooks:
+  BeforeInstall:
+    - location: \before-install.bat
+      timeout: 900
