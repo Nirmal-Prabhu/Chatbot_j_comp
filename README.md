@@ -28,12 +28,12 @@ In any case, the utilization of artificial intelligence in an industry where ind
 Our	program	uses	a	number	of	python	modules	to	work	properly:
 
 1. tkinter 
-1. os
-1. webbrowser
-1. numpy
-1. pandas
-1. matplotlib
-
+2. os
+3. webbrowser
+4. numpy
+5. pandas
+6. matplotlib
+7. scikit-learn
 ## :white_square_button: Installation 
 Install the following package by typing the following in CMD
 
